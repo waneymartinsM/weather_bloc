@@ -17,7 +17,7 @@ O aplicativo é desenvolvido em Flutter e tem como objetivo fornecer aos usuári
 - weather: ^3.1.1
 - flutter_bloc: ^8.1.3
 - equatable: ^2.0.5
-- 
+
 ## Demonstração
 
 <p>
